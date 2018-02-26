@@ -1,10 +1,12 @@
 
 """
+Yay it worked
 Rolex_pt1
 
 Description:
 """
 import tsk
+print("Yes It worked")
 import pygame
 pygame.init()
 import random
